@@ -1,4 +1,4 @@
-# Cinema Room REST Service
+# Java Backend Development Project - Cinema Room REST Service
 
 A Java Backend Development project that serves as a simplementation of Virtual Cinema Theater. It is based on Spring Boot and built with Intellij IDEA.
 
